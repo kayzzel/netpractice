@@ -20,7 +20,7 @@ NetPractice is a practical networking exercise designed to introduce students to
 
 1. **Extract the project files** download, extract, and move into the project resources:
     ```sh
-    wget https://cdn.intra.42.fr/document/document/45519/net_practice.1.9.tgz
+    wget https://cdn.intra.42.fr/document/document/48830/net_practice.1.9.tgz
     tar xvf net_practice.1.9.tgz
     cd net_practice
     ```
